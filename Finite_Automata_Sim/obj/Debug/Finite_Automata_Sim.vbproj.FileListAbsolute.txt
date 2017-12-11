@@ -1,0 +1,10 @@
+c:\users\mitch\documents\visual studio 2015\Projects\Finite_Automata_Sim\Finite_Automata_Sim\bin\Debug\Finite_Automata_Sim.exe.config
+c:\users\mitch\documents\visual studio 2015\Projects\Finite_Automata_Sim\Finite_Automata_Sim\bin\Debug\Finite_Automata_Sim.exe
+c:\users\mitch\documents\visual studio 2015\Projects\Finite_Automata_Sim\Finite_Automata_Sim\bin\Debug\Finite_Automata_Sim.pdb
+c:\users\mitch\documents\visual studio 2015\Projects\Finite_Automata_Sim\Finite_Automata_Sim\bin\Debug\Finite_Automata_Sim.xml
+c:\users\mitch\documents\visual studio 2015\Projects\Finite_Automata_Sim\Finite_Automata_Sim\obj\Debug\Finite_Automata_Sim.vbprojResolveAssemblyReference.cache
+c:\users\mitch\documents\visual studio 2015\Projects\Finite_Automata_Sim\Finite_Automata_Sim\obj\Debug\Finite_Automata_Sim.Resources.resources
+c:\users\mitch\documents\visual studio 2015\Projects\Finite_Automata_Sim\Finite_Automata_Sim\obj\Debug\Finite_Automata_Sim.vbproj.GenerateResource.Cache
+c:\users\mitch\documents\visual studio 2015\Projects\Finite_Automata_Sim\Finite_Automata_Sim\obj\Debug\Finite_Automata_Sim.exe
+c:\users\mitch\documents\visual studio 2015\Projects\Finite_Automata_Sim\Finite_Automata_Sim\obj\Debug\Finite_Automata_Sim.xml
+c:\users\mitch\documents\visual studio 2015\Projects\Finite_Automata_Sim\Finite_Automata_Sim\obj\Debug\Finite_Automata_Sim.pdb

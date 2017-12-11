@@ -1,0 +1,6 @@
+Alphabet: [0123456789]
+States: 2
+Valid: DFA
+Strings: 1000
+Accepted: 292
+Rejected: 708

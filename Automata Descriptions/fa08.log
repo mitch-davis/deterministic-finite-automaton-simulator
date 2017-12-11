@@ -1,0 +1,6 @@
+Alphabet: [01]
+States: 5
+Valid: DFA
+Strings: 1000
+Accepted: 29
+Rejected: 971
